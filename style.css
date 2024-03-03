@@ -28,6 +28,10 @@ a {
     text-decoration: none;
 }
 
+a:hover{
+       cursor: pointer;
+}
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -35,9 +39,12 @@ nav {
     font-family: 'Poppins', sans-serif;
 }
 
-nav .icon {
+nav .icon .menuBtn{
     font-size: 3rem;
     color: white;
+}
+
+nav .icon {
     display: none;
 }
 

@@ -300,7 +300,7 @@
         display: none;
     } 
     
-    nav .icon {
+    nav .icon{
         display: block;
     }
 
@@ -526,7 +526,7 @@
         font-size: 16px;
     }
 
-    nav .icon {
+    nav .icon .menuBtn{
         font-size: 2rem;
     }
 
