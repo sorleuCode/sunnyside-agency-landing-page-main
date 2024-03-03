@@ -41,11 +41,11 @@ nav {
 
 nav .icon .menuBtn{
     font-size: 3rem;
-    color: white;
 }
 
 nav .icon {
     display: none;
+    color: white;
 }
 
 .navLeft p  a{
